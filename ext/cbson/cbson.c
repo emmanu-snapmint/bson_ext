@@ -59,6 +59,7 @@
 #include <math.h>
 #include <unistd.h>
 #include <time.h>
+#include <arpa/inet.h>
 
 #include "version.h"
 #include "bson_buffer.h"
