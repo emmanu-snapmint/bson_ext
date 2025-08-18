@@ -60,6 +60,9 @@
 #include <unistd.h>
 #include <time.h>
 #include <arpa/inet.h>
+#include <netinet/in.h>
+#include <unistd.h>
+
 
 #include "version.h"
 #include "bson_buffer.h"
